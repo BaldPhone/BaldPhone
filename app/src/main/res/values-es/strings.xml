@@ -272,7 +272,7 @@
     <string name="will_repeat_only_once">¡solo se repetirá una vez!</string>
     <string name="write">Exportar</string>
     <string name="write_contacts">Exportar contactos</string>
-    <string name="write_external_storage">Exportar en almacenamiento externo</string>
+    <string name="write_external_storage">Escribir en almacenamiento externo</string>
     <string name="yes">Sí</string>
     <string name="yesterday">Ayer</string>
     <string name="nothing">Nada</string>
