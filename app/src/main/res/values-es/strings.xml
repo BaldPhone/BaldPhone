@@ -115,7 +115,7 @@
     <string name="edit">Editar</string>
     <string name="email">Correo:</string>
     <string name="enable_notification_access">Permitir ver las notificaciones</string>
-    <string name="enable_notification_access_subtext">Para que BaldPhone acceda a las notificaciones tienes que conceder permisos adicionales.</string>
+    <string name="enable_notification_access_subtext">Permite que BaldPhone pueda acceder a rus notificaciones.</string>
     <string name="enter">Guardar y aceptar</string>
     <string name="enter_contact_or_phone_number">Introduce el nombre del contacto:</string>
     <string name="evening">Por la noche</string>
