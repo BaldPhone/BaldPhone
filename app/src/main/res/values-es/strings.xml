@@ -58,7 +58,7 @@
     <string name="and_welcome_to_baldphone">te damos la bienvenida a Baldphone</string>
 
     <string name="apps">Aplicaciones</string>
-    <string name="are_you_sure_you_want_to_delete___">¿Seguro que quieres borrar el elemento «%s»?</string>
+    <string name="are_you_sure_you_want_to_delete___">¿Seguro que quieres borrar «%s»?</string>
     <string name="assistant">Asistente voz</string>
     <string name="at_least_one_day_must_be_selected">Hay que elegir al menos un día.</string>
     <string name="auto_brightness">Brillo\nautomático</string>
