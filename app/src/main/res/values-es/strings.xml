@@ -224,6 +224,7 @@
     <string name="settings">Ajustes</string>
     <string name="settings_permission">Permisos concedidos</string>
     <string name="share">Compartir</string>
+    <string name="share_actual_text">Hola, estoy usando esta aplicación llamada «BaldPhone» que reemplaza la interfaz del teléfono por otra que es más clara, grande, concisa y fácil de usar. ¿Te parece interesante? Pues puedes descargarla gratis. Haz clic en este enlace para entrar en la página Web: https://baldphone.com</string>
     <string name="share_bald_phone_subtext">Oye, ¿conoces a alguien al que le pueda venir bien usar BaldPhone?\n
         Si quieres puedes recomendarles la aplicación.
     </string>
@@ -399,6 +400,9 @@
     <string name="website">Página Web</string>
     <string name="appear_on_top">Mostrar sobre otras aplicaciones</string>
     <string name="appear_on_top_subtext">Este permiso es necesario en versiones nuevas de Android para poder mostrar alarmas y recordatorios al apagar la pantalla.</string>
+
+    <string name="mail_application_not_found">Parece que no hay ninguna aplicación para enviar correos electrónicos instalada.</string>
+    <string name="get_involved">Involúcrate</string>
 
     <string-array name="names_for_screenshots">
         <item>El padrino</item>
