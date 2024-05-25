@@ -122,7 +122,7 @@
     <string name="example_of_different_text_sizes">Ejemplo de diferentes tamaños de texto\n
         Las letras deben ser legibles y no salirse.
     </string>
-    <string name="external_storage_subtext">Este permiso es necesario para guardar Fotos.</string>
+    <string name="external_storage_subtext">Este permiso es necesario para poder guardar fotos.</string>
     <string name="feedback">Enviar comentarios y opiniones</string>
     <string name="feedback_cannot_be_empty">Para enviar comentarios primero hay que escribir algo.</string>
     <string name="feedback_sent_successfully">El comentario se ha enviado correctamente.</string>
