@@ -217,7 +217,7 @@
     <string name="set_default_dialer">Configurar aplicación de llamadas</string>
     <string name="set_default_dialer_subtext">Es necesario que configures a BaldPhone como la aplicación de llamadas predeterminada.</string>
     <string name="set_home_screen">Configurar pantalla de inicio</string>
-    <string name="set_home_screen_subtext">Para poder usar BaldPhone hay establecerlo como pantalla de inicio principal. Este cambio no es permanente y puedes volver a la aplicación original desde los ajustes del teléfono en cualquier momento.
+    <string name="set_home_screen_subtext">Para poder usar BaldPhone tendrías que ponerlo como pantalla de inicio principal. Este cambio no es permanente y puedes volver a la aplicación original desde los ajustes del teléfono en cualquier momento.
     </string>
     <string name="set_keyboard">Configurar teclado principal</string>
     <string name="setting_does_not_exist">El ajuste no existe</string>
