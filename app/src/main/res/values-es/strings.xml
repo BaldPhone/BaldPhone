@@ -353,7 +353,7 @@
     <string name="go">Ir</string>
 
 
-    <string name="dialer_sounds">Sonidos al marcar números</string>
+    <string name="dialer_sounds">Sonar al marcar números de teléfono</string>
     <string name="dialer_sounds_subtext">Elige si quieres que suenen las teclas al hacer una llamada.</string>
     <string name="low_battery_alert">Alerta de batería baja</string>
     <string name="low_battery_alert_subtext">Elige si quieres que la barra de estado se ponga roja en la pantalla de inicio cuando la batería baje del 20%. Ten en cuenta que esta opción no sirve de nada si la barra de estado está oculta.
